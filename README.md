@@ -2,6 +2,8 @@
 
 Spacelift plus [Transcrypt][], for decrypting secret things in your git repo.
 
+[Transcrypt]: https://github.com/elasticdog/transcrypt
+
 Based on the base AWS spacelift image, with transcrypt & dependencies added to save re-downloading every run.
 
 ## Usage

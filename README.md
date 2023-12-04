@@ -1,5 +1,9 @@
 # Spacelift Transcrypt
 
+**⚠️ This doesn't work as Spacelift doesn't clone a git repo at the workroot.**
+
+---
+
 Spacelift plus [Transcrypt][], for decrypting secret things in your git repo.
 
 [Transcrypt]: https://github.com/elasticdog/transcrypt
